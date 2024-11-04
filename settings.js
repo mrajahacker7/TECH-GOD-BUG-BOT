@@ -1,22 +1,22 @@
-//base by Tech-God
+//base by Mraja-Mods
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
+//YouTube: @MrRAJA7MODS
 //Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//Telegram: t.me/Mr_Raja_Hacker
+//GitHub: @mrajahacker7
+//WhatsApp: +18122212168
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923259258115"
+global.ownernomer = "18122212168"
 global.ownername = "🐛Mraja Mods"
 global.ytname = "YT: Mraja Mods"
 global.socialm = "GitHub: mrraja7hacker"
 global.location = "Pakistan, Up, Karachi"
 
-global.ownernumber = '923259258115'  //creator number
+global.ownernumber = '18122212168'  //creator number
 global.ownername = '🐛Mraja-Mods' //owner name
 global.botname = 'Mraja ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
